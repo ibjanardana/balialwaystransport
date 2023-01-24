@@ -354,7 +354,7 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 82vh;
+  height: 80vh;
   background: url("../img/hero-banner.jpeg") center center;
   background-size: cover;
   position: relative;
@@ -417,6 +417,29 @@ h6 {
     height: calc(100vh - 70px);
   }
 }
+
+
+/* For Mobile Portrait View */
+@media screen and (min-device-width: 780px)
+and (max-device-width: 1024px){
+  #hero{
+  background: url("../img/hero-banner.jpeg") center center;
+  background-size: cover;
+  }
+}
+
+@media screen and (min-device-width: 300px)
+and (max-device-width: 779px){  
+  #hero {
+    background: url('../img/portfolio/portfolio-23.jpeg') center center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+  }
+}
+ 
+/* For Mobile Landscape View */
+
+
 
 @media (max-width: 768px) {
   #hero h1 {
