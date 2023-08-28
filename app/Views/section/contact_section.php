@@ -12,19 +12,19 @@
                 <div class="col-lg-4 info">
                   <i class="bi bi-geo-alt"></i>
                   <h4>Location</h4>
-                  <p><a href="https://goo.gl/maps/AspFwWSGNv8XA9A98">Jln Gunung Talang 1A No.2 Street<br>Denpasar, Bali 80118</a></p>
+                  <p><a href="https://goo.gl/maps/AspFwWSGNv8XA9A98">Jln Gunung Talang 1 No.18<br>Denpasar Barat, Bali 80118</a></p>
+                </div>
+
+                <div class="col-lg-4 info mt-4 mt-lg-0">
+                  <i class="bi bi-whatsapp"></i>
+                  <h4>Whatsapp</h4>
+                  <p><a href="https://wa.me/6282236171383?text=Hi%20i%20am%20Interesting%20Book%20Tour">+62 822 36171 383</a></p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-phone"></i>
-                  <h4>Whatsapp</h4>
-                  <p><a href="https://wa.me/6282236171383">+62 822 36171 383</a><br><a href="tel:+62-877-35498-150">+62 877 35498 150</a></p>
-                </div>
-
-                <div class="col-lg-4 info mt-4 mt-lg-0">
-                  <i class="bi bi-envelope"></i>
-                  <h4>Email</h4>
-                  <p><a href="mailto: balialwaystransport@gmail.com">balialwaystransport@gmail.com</a></p>
+                  <h4>Call</h4>
+                  <p><a href="tel:+62-877-35498-150">+62 877 35498 150</a></p>
                 </div>
 
               </div>
