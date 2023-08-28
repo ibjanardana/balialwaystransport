@@ -46,7 +46,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#testimonials">Testimonials</a></li>
 
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
@@ -110,8 +110,8 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Bali Always Transport<br><span style="font-size: 13px">Bali Transport & Tour Service</span></h4>
             <p>
-              Jln. Gunung Talang 1A No.2<br>
-              Denpasar, Bali 80118<br>
+              Jln. Gunung Talang 1 No.18<br>
+              Padang Sambian Kelod Denpasar Barat, Bali 80117<br>
               Indonesia <br><br>
               For information and booking, please kindly to contact us:
               <br>
@@ -147,7 +147,7 @@
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/lumia-bootstrap-business-template/ -->
-          Created by <a href="https://ibjanardana.carrd.co/" target="_blank">I.B Janar Dana</a>
+          Created with &#10084; by <a href="https://balialwaystransport.com/" target="_blank">Bali Always Transport</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
