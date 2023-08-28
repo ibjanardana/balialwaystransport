@@ -355,7 +355,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: url("../img/hero-banner.jpeg") center center;
+  background: url("../img/hero-banner-1.jpeg") center center;
   background-size: cover;
   position: relative;
   margin-top: 70px;
@@ -422,7 +422,7 @@ h6 {
 @media screen and (min-device-width: 780px)
 and (max-device-width: 1024px){
   #hero{
-  background: url("../img/hero-banner.jpeg") center center;
+  background: url("../img/hero-banner-1.jpeg") center center;
   background-size: cover;
   }
 }
@@ -430,7 +430,7 @@ and (max-device-width: 1024px){
 @media screen and (min-device-width: 300px)
 and (max-device-width: 779px){  
   #hero {
-    background: url('../img/portfolio/portfolio-23.jpeg') center center;
+    background: url('../img/hero-banner-1.jpeg') center center;
     background-repeat: no-repeat;
     background-size: cover;    
   }
