@@ -2,7 +2,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Services</h2><br>
+          <h2>Tours</h2><br>
           <h4>Daily Packages Tour</h4>
         </div>
 
@@ -151,6 +151,7 @@
           </div>
             <div class="col-md-6 mt-4">
               <div class="icon-box">
+              <i class="bi bi-card-checklist"></i>
                 <h4><a href="#">Nusa Penida West Tour</a></h4>
                 <p>Duration 9 Hours<br>Start: 06:30 AM Pick Up an Hotel<br><b>Price: USD $120 per person</b><br>
                 <b>IDR : Rp 1.800.000 per person</b></p>
@@ -167,6 +168,7 @@
           </div>
           <div class="col-md-6 mt-4">
               <div class="icon-box">
+              <i class="bi bi-card-checklist"></i>
                 <h4><a href="#">Nusa Penida East Tour</a></h4>
                 <p>Duration 9 Hours<br>Start: 06:30 AM Pick Up an Hotel<br><b>Price: USD $ 125 per person</b><br>
                 <b>IDR : Rp 1.875.000 per person</b></p>
@@ -346,8 +348,8 @@
             <i class="bi bi-card-checklist"></i>
             <h4><a href="#"></a>Private Full Day Tour</h4>
             <p>
-            <b>We are Organize Private Tour Bali</b><br>
-            Whatsapp : <a href="https://wa.me/6282236171383">Chat Me</a><br>
+            <b>We are Organize Your Private Tour in Bali</b><br>
+            Whatsapp : <a href="https://wa.me/6282236171383?text=Hi%20i%20am%20Interesting%20Book%20Private%20Tour">Chat Me</a><br>
             Our Website : <a href="https://balialwaystransport.com">Click Me</a></p>
           </div>
         </div>
