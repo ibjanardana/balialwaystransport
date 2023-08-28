@@ -45,7 +45,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto" href="#services">Tours</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#testimonials">Testimonials</a></li>
 
@@ -57,7 +57,7 @@
       <div class="header-social-links d-flex align-items-center">
         <a href="https://web.facebook.com/ib.budi.5" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/balialwaystransport/" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="https://wa.me/6282236171383" class="instagram"><i class="bi bi-whatsapp"></i></a>
+        <a href="https://wa.me/6282236171383?text=Hi%20i%20am%20Interesting%20Book%20Tour" class="instagram"><i class="bi bi-whatsapp"></i></a>
       </div>
 
     </div>
@@ -126,7 +126,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Tours</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('') ?>/terms">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
@@ -153,8 +153,7 @@
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="https://web.facebook.com/ib.budi.5" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://www.instagram.com/balialwaystransport/" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="mailto: balialwaystransport@gmail.com" class="google-plus"><i class="bx bxl-gmail"></i></a>
-        <a href="https://wa.me/6282236171383" class="linkedin"><i class="bx bxl-whatsapp"></i></a>
+        <a href="https://wa.me/6282236171383?text=Hi%20i%20am%20Interesting%20Book%20Tour" class="linkedin"><i class="bx bxl-whatsapp"></i></a>
       </div>
     </div>
   </footer><!-- End Footer -->
